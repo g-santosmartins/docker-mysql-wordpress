@@ -16,7 +16,7 @@ $ cd docker-mysql-wordpress
 ```
 
 <h1 align="center">
-    <img alt="Docker-wordpress-down" title="Docker-wordpress-down" src=".github/docker-compose-down.gif" />
+    <img alt="Docker-wordpress-down" title="Docker-wordpress-down" src=".github/docker-compose.gif" />
 </h1>
 
 Rode:
@@ -38,7 +38,7 @@ Apatir do comando apresentado cria o projeto que irá orquestrar todo o ambiente
 
 
 <h1 align="center">
-    <img alt="Docker-wordpress" title="Docker-wordpress" src=".github/docker-compose.gif" />
+    <img alt="Docker-wordpress" title="Docker-wordpress" src=".github/docker-compose-down.gif" />
 </h1>
 
 ## 🧪 Tecnologias utilizadas
